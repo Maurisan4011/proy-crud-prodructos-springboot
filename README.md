@@ -14,9 +14,10 @@
 - MySql
 - Maven==4.0.0.
 - Java== 11
-- Apache 
+- Apache. 
 - SWAGGER
 - LOMBOK
+
 
 
 # CURSO JAVAFULLSTACK
